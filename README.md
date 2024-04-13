@@ -1,3 +1,11 @@
-<p style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRionwc5-R-NJ3oY0QtB9EfCRN6I9zJCXtDP6al_7FEJQ&s');">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Background Image</h2>
+
+<p>A background image for a p element:</p>
+
+<p style="background-image: url('https://www.lifeisnerd.it/wp-content/uploads/2020/08/naruto-shippuden-e-boruto-1200x630-1-752x440.jpg');">
 # WEBPAGEDEVELOPMENT!
 Webpage development for education purposes only 
